@@ -1,0 +1,577 @@
+Month,Year,Quarter,State,Vehicle_Type,EV_Sales
+2024-01-01,2024,Q1,Maharashtra,Two-Wheeler,2842
+2024-01-01,2024,Q1,Maharashtra,Three-Wheeler,980
+2024-01-01,2024,Q1,Maharashtra,Four-Wheeler,467
+2024-01-01,2024,Q1,Uttar Pradesh,Two-Wheeler,2582
+2024-01-01,2024,Q1,Uttar Pradesh,Three-Wheeler,989
+2024-01-01,2024,Q1,Uttar Pradesh,Four-Wheeler,585
+2024-01-01,2024,Q1,Karnataka,Two-Wheeler,2131
+2024-01-01,2024,Q1,Karnataka,Three-Wheeler,515
+2024-01-01,2024,Q1,Karnataka,Four-Wheeler,380
+2024-01-01,2024,Q1,Tamil Nadu,Two-Wheeler,1661
+2024-01-01,2024,Q1,Tamil Nadu,Three-Wheeler,594
+2024-01-01,2024,Q1,Tamil Nadu,Four-Wheeler,283
+2024-01-01,2024,Q1,Gujarat,Two-Wheeler,1566
+2024-01-01,2024,Q1,Gujarat,Three-Wheeler,431
+2024-01-01,2024,Q1,Gujarat,Four-Wheeler,213
+2024-01-01,2024,Q1,Rajasthan,Two-Wheeler,1016
+2024-01-01,2024,Q1,Rajasthan,Three-Wheeler,248
+2024-01-01,2024,Q1,Rajasthan,Four-Wheeler,239
+2024-01-01,2024,Q1,Delhi,Two-Wheeler,1309
+2024-01-01,2024,Q1,Delhi,Three-Wheeler,421
+2024-01-01,2024,Q1,Delhi,Four-Wheeler,180
+2024-01-01,2024,Q1,Madhya Pradesh,Two-Wheeler,829
+2024-01-01,2024,Q1,Madhya Pradesh,Three-Wheeler,264
+2024-01-01,2024,Q1,Madhya Pradesh,Four-Wheeler,49
+2024-02-01,2024,Q1,Maharashtra,Two-Wheeler,2757
+2024-02-01,2024,Q1,Maharashtra,Three-Wheeler,859
+2024-02-01,2024,Q1,Maharashtra,Four-Wheeler,738
+2024-02-01,2024,Q1,Uttar Pradesh,Two-Wheeler,2686
+2024-02-01,2024,Q1,Uttar Pradesh,Three-Wheeler,917
+2024-02-01,2024,Q1,Uttar Pradesh,Four-Wheeler,672
+2024-02-01,2024,Q1,Karnataka,Two-Wheeler,2677
+2024-02-01,2024,Q1,Karnataka,Three-Wheeler,686
+2024-02-01,2024,Q1,Karnataka,Four-Wheeler,324
+2024-02-01,2024,Q1,Tamil Nadu,Two-Wheeler,1813
+2024-02-01,2024,Q1,Tamil Nadu,Three-Wheeler,476
+2024-02-01,2024,Q1,Tamil Nadu,Four-Wheeler,432
+2024-02-01,2024,Q1,Gujarat,Two-Wheeler,1555
+2024-02-01,2024,Q1,Gujarat,Three-Wheeler,415
+2024-02-01,2024,Q1,Gujarat,Four-Wheeler,362
+2024-02-01,2024,Q1,Rajasthan,Two-Wheeler,1184
+2024-02-01,2024,Q1,Rajasthan,Three-Wheeler,405
+2024-02-01,2024,Q1,Rajasthan,Four-Wheeler,199
+2024-02-01,2024,Q1,Delhi,Two-Wheeler,1143
+2024-02-01,2024,Q1,Delhi,Three-Wheeler,400
+2024-02-01,2024,Q1,Delhi,Four-Wheeler,223
+2024-02-01,2024,Q1,Madhya Pradesh,Two-Wheeler,855
+2024-02-01,2024,Q1,Madhya Pradesh,Three-Wheeler,238
+2024-02-01,2024,Q1,Madhya Pradesh,Four-Wheeler,210
+2024-03-01,2024,Q1,Maharashtra,Two-Wheeler,3143
+2024-03-01,2024,Q1,Maharashtra,Three-Wheeler,882
+2024-03-01,2024,Q1,Maharashtra,Four-Wheeler,991
+2024-03-01,2024,Q1,Uttar Pradesh,Two-Wheeler,3107
+2024-03-01,2024,Q1,Uttar Pradesh,Three-Wheeler,940
+2024-03-01,2024,Q1,Uttar Pradesh,Four-Wheeler,364
+2024-03-01,2024,Q1,Karnataka,Two-Wheeler,2133
+2024-03-01,2024,Q1,Karnataka,Three-Wheeler,596
+2024-03-01,2024,Q1,Karnataka,Four-Wheeler,303
+2024-03-01,2024,Q1,Tamil Nadu,Two-Wheeler,1819
+2024-03-01,2024,Q1,Tamil Nadu,Three-Wheeler,491
+2024-03-01,2024,Q1,Tamil Nadu,Four-Wheeler,593
+2024-03-01,2024,Q1,Gujarat,Two-Wheeler,1550
+2024-03-01,2024,Q1,Gujarat,Three-Wheeler,477
+2024-03-01,2024,Q1,Gujarat,Four-Wheeler,299
+2024-03-01,2024,Q1,Rajasthan,Two-Wheeler,1206
+2024-03-01,2024,Q1,Rajasthan,Three-Wheeler,359
+2024-03-01,2024,Q1,Rajasthan,Four-Wheeler,193
+2024-03-01,2024,Q1,Delhi,Two-Wheeler,1375
+2024-03-01,2024,Q1,Delhi,Three-Wheeler,345
+2024-03-01,2024,Q1,Delhi,Four-Wheeler,407
+2024-03-01,2024,Q1,Madhya Pradesh,Two-Wheeler,830
+2024-03-01,2024,Q1,Madhya Pradesh,Three-Wheeler,251
+2024-03-01,2024,Q1,Madhya Pradesh,Four-Wheeler,226
+2024-04-01,2024,Q2,Maharashtra,Two-Wheeler,2829
+2024-04-01,2024,Q2,Maharashtra,Three-Wheeler,730
+2024-04-01,2024,Q2,Maharashtra,Four-Wheeler,875
+2024-04-01,2024,Q2,Uttar Pradesh,Two-Wheeler,3019
+2024-04-01,2024,Q2,Uttar Pradesh,Three-Wheeler,996
+2024-04-01,2024,Q2,Uttar Pradesh,Four-Wheeler,664
+2024-04-01,2024,Q2,Karnataka,Two-Wheeler,2375
+2024-04-01,2024,Q2,Karnataka,Three-Wheeler,719
+2024-04-01,2024,Q2,Karnataka,Four-Wheeler,280
+2024-04-01,2024,Q2,Tamil Nadu,Two-Wheeler,2166
+2024-04-01,2024,Q2,Tamil Nadu,Three-Wheeler,530
+2024-04-01,2024,Q2,Tamil Nadu,Four-Wheeler,366
+2024-04-01,2024,Q2,Gujarat,Two-Wheeler,1542
+2024-04-01,2024,Q2,Gujarat,Three-Wheeler,541
+2024-04-01,2024,Q2,Gujarat,Four-Wheeler,402
+2024-04-01,2024,Q2,Rajasthan,Two-Wheeler,1207
+2024-04-01,2024,Q2,Rajasthan,Three-Wheeler,383
+2024-04-01,2024,Q2,Rajasthan,Four-Wheeler,328
+2024-04-01,2024,Q2,Delhi,Two-Wheeler,1496
+2024-04-01,2024,Q2,Delhi,Three-Wheeler,422
+2024-04-01,2024,Q2,Delhi,Four-Wheeler,239
+2024-04-01,2024,Q2,Madhya Pradesh,Two-Wheeler,892
+2024-04-01,2024,Q2,Madhya Pradesh,Three-Wheeler,290
+2024-04-01,2024,Q2,Madhya Pradesh,Four-Wheeler,199
+2024-05-01,2024,Q2,Maharashtra,Two-Wheeler,2676
+2024-05-01,2024,Q2,Maharashtra,Three-Wheeler,730
+2024-05-01,2024,Q2,Maharashtra,Four-Wheeler,908
+2024-05-01,2024,Q2,Uttar Pradesh,Two-Wheeler,3037
+2024-05-01,2024,Q2,Uttar Pradesh,Three-Wheeler,912
+2024-05-01,2024,Q2,Uttar Pradesh,Four-Wheeler,276
+2024-05-01,2024,Q2,Karnataka,Two-Wheeler,2470
+2024-05-01,2024,Q2,Karnataka,Three-Wheeler,756
+2024-05-01,2024,Q2,Karnataka,Four-Wheeler,176
+2024-05-01,2024,Q2,Tamil Nadu,Two-Wheeler,2195
+2024-05-01,2024,Q2,Tamil Nadu,Three-Wheeler,601
+2024-05-01,2024,Q2,Tamil Nadu,Four-Wheeler,511
+2024-05-01,2024,Q2,Gujarat,Two-Wheeler,1718
+2024-05-01,2024,Q2,Gujarat,Three-Wheeler,469
+2024-05-01,2024,Q2,Gujarat,Four-Wheeler,205
+2024-05-01,2024,Q2,Rajasthan,Two-Wheeler,1059
+2024-05-01,2024,Q2,Rajasthan,Three-Wheeler,337
+2024-05-01,2024,Q2,Rajasthan,Four-Wheeler,242
+2024-05-01,2024,Q2,Delhi,Two-Wheeler,1432
+2024-05-01,2024,Q2,Delhi,Three-Wheeler,443
+2024-05-01,2024,Q2,Delhi,Four-Wheeler,134
+2024-05-01,2024,Q2,Madhya Pradesh,Two-Wheeler,890
+2024-05-01,2024,Q2,Madhya Pradesh,Three-Wheeler,282
+2024-05-01,2024,Q2,Madhya Pradesh,Four-Wheeler,173
+2024-06-01,2024,Q2,Maharashtra,Two-Wheeler,3677
+2024-06-01,2024,Q2,Maharashtra,Three-Wheeler,891
+2024-06-01,2024,Q2,Maharashtra,Four-Wheeler,777
+2024-06-01,2024,Q2,Uttar Pradesh,Two-Wheeler,2779
+2024-06-01,2024,Q2,Uttar Pradesh,Three-Wheeler,901
+2024-06-01,2024,Q2,Uttar Pradesh,Four-Wheeler,839
+2024-06-01,2024,Q2,Karnataka,Two-Wheeler,2279
+2024-06-01,2024,Q2,Karnataka,Three-Wheeler,611
+2024-06-01,2024,Q2,Karnataka,Four-Wheeler,744
+2024-06-01,2024,Q2,Tamil Nadu,Two-Wheeler,1786
+2024-06-01,2024,Q2,Tamil Nadu,Three-Wheeler,662
+2024-06-01,2024,Q2,Tamil Nadu,Four-Wheeler,385
+2024-06-01,2024,Q2,Gujarat,Two-Wheeler,1595
+2024-06-01,2024,Q2,Gujarat,Three-Wheeler,507
+2024-06-01,2024,Q2,Gujarat,Four-Wheeler,347
+2024-06-01,2024,Q2,Rajasthan,Two-Wheeler,1306
+2024-06-01,2024,Q2,Rajasthan,Three-Wheeler,357
+2024-06-01,2024,Q2,Rajasthan,Four-Wheeler,139
+2024-06-01,2024,Q2,Delhi,Two-Wheeler,1304
+2024-06-01,2024,Q2,Delhi,Three-Wheeler,418
+2024-06-01,2024,Q2,Delhi,Four-Wheeler,383
+2024-06-01,2024,Q2,Madhya Pradesh,Two-Wheeler,1194
+2024-06-01,2024,Q2,Madhya Pradesh,Three-Wheeler,340
+2024-06-01,2024,Q2,Madhya Pradesh,Four-Wheeler,119
+2024-07-01,2024,Q3,Maharashtra,Two-Wheeler,2541
+2024-07-01,2024,Q3,Maharashtra,Three-Wheeler,738
+2024-07-01,2024,Q3,Maharashtra,Four-Wheeler,680
+2024-07-01,2024,Q3,Uttar Pradesh,Two-Wheeler,2779
+2024-07-01,2024,Q3,Uttar Pradesh,Three-Wheeler,678
+2024-07-01,2024,Q3,Uttar Pradesh,Four-Wheeler,738
+2024-07-01,2024,Q3,Karnataka,Two-Wheeler,2563
+2024-07-01,2024,Q3,Karnataka,Three-Wheeler,611
+2024-07-01,2024,Q3,Karnataka,Four-Wheeler,398
+2024-07-01,2024,Q3,Tamil Nadu,Two-Wheeler,1728
+2024-07-01,2024,Q3,Tamil Nadu,Three-Wheeler,593
+2024-07-01,2024,Q3,Tamil Nadu,Four-Wheeler,453
+2024-07-01,2024,Q3,Gujarat,Two-Wheeler,1692
+2024-07-01,2024,Q3,Gujarat,Three-Wheeler,537
+2024-07-01,2024,Q3,Gujarat,Four-Wheeler,199
+2024-07-01,2024,Q3,Rajasthan,Two-Wheeler,1363
+2024-07-01,2024,Q3,Rajasthan,Three-Wheeler,337
+2024-07-01,2024,Q3,Rajasthan,Four-Wheeler,194
+2024-07-01,2024,Q3,Delhi,Two-Wheeler,1257
+2024-07-01,2024,Q3,Delhi,Three-Wheeler,352
+2024-07-01,2024,Q3,Delhi,Four-Wheeler,250
+2024-07-01,2024,Q3,Madhya Pradesh,Two-Wheeler,885
+2024-07-01,2024,Q3,Madhya Pradesh,Three-Wheeler,232
+2024-07-01,2024,Q3,Madhya Pradesh,Four-Wheeler,136
+2024-08-01,2024,Q3,Maharashtra,Two-Wheeler,3085
+2024-08-01,2024,Q3,Maharashtra,Three-Wheeler,962
+2024-08-01,2024,Q3,Maharashtra,Four-Wheeler,738
+2024-08-01,2024,Q3,Uttar Pradesh,Two-Wheeler,3004
+2024-08-01,2024,Q3,Uttar Pradesh,Three-Wheeler,720
+2024-08-01,2024,Q3,Uttar Pradesh,Four-Wheeler,435
+2024-08-01,2024,Q3,Karnataka,Two-Wheeler,2056
+2024-08-01,2024,Q3,Karnataka,Three-Wheeler,743
+2024-08-01,2024,Q3,Karnataka,Four-Wheeler,307
+2024-08-01,2024,Q3,Tamil Nadu,Two-Wheeler,2045
+2024-08-01,2024,Q3,Tamil Nadu,Three-Wheeler,675
+2024-08-01,2024,Q3,Tamil Nadu,Four-Wheeler,203
+2024-08-01,2024,Q3,Gujarat,Two-Wheeler,1568
+2024-08-01,2024,Q3,Gujarat,Three-Wheeler,432
+2024-08-01,2024,Q3,Gujarat,Four-Wheeler,333
+2024-08-01,2024,Q3,Rajasthan,Two-Wheeler,1197
+2024-08-01,2024,Q3,Rajasthan,Three-Wheeler,329
+2024-08-01,2024,Q3,Rajasthan,Four-Wheeler,211
+2024-08-01,2024,Q3,Delhi,Two-Wheeler,1387
+2024-08-01,2024,Q3,Delhi,Three-Wheeler,358
+2024-08-01,2024,Q3,Delhi,Four-Wheeler,238
+2024-08-01,2024,Q3,Madhya Pradesh,Two-Wheeler,749
+2024-08-01,2024,Q3,Madhya Pradesh,Three-Wheeler,199
+2024-08-01,2024,Q3,Madhya Pradesh,Four-Wheeler,225
+2024-09-01,2024,Q3,Maharashtra,Two-Wheeler,3090
+2024-09-01,2024,Q3,Maharashtra,Three-Wheeler,857
+2024-09-01,2024,Q3,Maharashtra,Four-Wheeler,971
+2024-09-01,2024,Q3,Uttar Pradesh,Two-Wheeler,3211
+2024-09-01,2024,Q3,Uttar Pradesh,Three-Wheeler,789
+2024-09-01,2024,Q3,Uttar Pradesh,Four-Wheeler,492
+2024-09-01,2024,Q3,Karnataka,Two-Wheeler,2066
+2024-09-01,2024,Q3,Karnataka,Three-Wheeler,698
+2024-09-01,2024,Q3,Karnataka,Four-Wheeler,174
+2024-09-01,2024,Q3,Tamil Nadu,Two-Wheeler,1768
+2024-09-01,2024,Q3,Tamil Nadu,Three-Wheeler,454
+2024-09-01,2024,Q3,Tamil Nadu,Four-Wheeler,598
+2024-09-01,2024,Q3,Gujarat,Two-Wheeler,1580
+2024-09-01,2024,Q3,Gujarat,Three-Wheeler,540
+2024-09-01,2024,Q3,Gujarat,Four-Wheeler,405
+2024-09-01,2024,Q3,Rajasthan,Two-Wheeler,959
+2024-09-01,2024,Q3,Rajasthan,Three-Wheeler,308
+2024-09-01,2024,Q3,Rajasthan,Four-Wheeler,164
+2024-09-01,2024,Q3,Delhi,Two-Wheeler,1090
+2024-09-01,2024,Q3,Delhi,Three-Wheeler,385
+2024-09-01,2024,Q3,Delhi,Four-Wheeler,245
+2024-09-01,2024,Q3,Madhya Pradesh,Two-Wheeler,932
+2024-09-01,2024,Q3,Madhya Pradesh,Three-Wheeler,227
+2024-09-01,2024,Q3,Madhya Pradesh,Four-Wheeler,175
+2024-10-01,2024,Q4,Maharashtra,Two-Wheeler,2741
+2024-10-01,2024,Q4,Maharashtra,Three-Wheeler,844
+2024-10-01,2024,Q4,Maharashtra,Four-Wheeler,658
+2024-10-01,2024,Q4,Uttar Pradesh,Two-Wheeler,3066
+2024-10-01,2024,Q4,Uttar Pradesh,Three-Wheeler,774
+2024-10-01,2024,Q4,Uttar Pradesh,Four-Wheeler,392
+2024-10-01,2024,Q4,Karnataka,Two-Wheeler,1829
+2024-10-01,2024,Q4,Karnataka,Three-Wheeler,609
+2024-10-01,2024,Q4,Karnataka,Four-Wheeler,546
+2024-10-01,2024,Q4,Tamil Nadu,Two-Wheeler,1779
+2024-10-01,2024,Q4,Tamil Nadu,Three-Wheeler,489
+2024-10-01,2024,Q4,Tamil Nadu,Four-Wheeler,590
+2024-10-01,2024,Q4,Gujarat,Two-Wheeler,1696
+2024-10-01,2024,Q4,Gujarat,Three-Wheeler,485
+2024-10-01,2024,Q4,Gujarat,Four-Wheeler,156
+2024-10-01,2024,Q4,Rajasthan,Two-Wheeler,1111
+2024-10-01,2024,Q4,Rajasthan,Three-Wheeler,310
+2024-10-01,2024,Q4,Rajasthan,Four-Wheeler,152
+2024-10-01,2024,Q4,Delhi,Two-Wheeler,1104
+2024-10-01,2024,Q4,Delhi,Three-Wheeler,304
+2024-10-01,2024,Q4,Delhi,Four-Wheeler,396
+2024-10-01,2024,Q4,Madhya Pradesh,Two-Wheeler,839
+2024-10-01,2024,Q4,Madhya Pradesh,Three-Wheeler,212
+2024-10-01,2024,Q4,Madhya Pradesh,Four-Wheeler,139
+2024-11-01,2024,Q4,Maharashtra,Two-Wheeler,3055
+2024-11-01,2024,Q4,Maharashtra,Three-Wheeler,1026
+2024-11-01,2024,Q4,Maharashtra,Four-Wheeler,394
+2024-11-01,2024,Q4,Uttar Pradesh,Two-Wheeler,3201
+2024-11-01,2024,Q4,Uttar Pradesh,Three-Wheeler,921
+2024-11-01,2024,Q4,Uttar Pradesh,Four-Wheeler,732
+2024-11-01,2024,Q4,Karnataka,Two-Wheeler,2399
+2024-11-01,2024,Q4,Karnataka,Three-Wheeler,799
+2024-11-01,2024,Q4,Karnataka,Four-Wheeler,289
+2024-11-01,2024,Q4,Tamil Nadu,Two-Wheeler,1670
+2024-11-01,2024,Q4,Tamil Nadu,Three-Wheeler,467
+2024-11-01,2024,Q4,Tamil Nadu,Four-Wheeler,474
+2024-11-01,2024,Q4,Gujarat,Two-Wheeler,1549
+2024-11-01,2024,Q4,Gujarat,Three-Wheeler,368
+2024-11-01,2024,Q4,Gujarat,Four-Wheeler,272
+2024-11-01,2024,Q4,Rajasthan,Two-Wheeler,1078
+2024-11-01,2024,Q4,Rajasthan,Three-Wheeler,271
+2024-11-01,2024,Q4,Rajasthan,Four-Wheeler,234
+2024-11-01,2024,Q4,Delhi,Two-Wheeler,1407
+2024-11-01,2024,Q4,Delhi,Three-Wheeler,372
+2024-11-01,2024,Q4,Delhi,Four-Wheeler,395
+2024-11-01,2024,Q4,Madhya Pradesh,Two-Wheeler,858
+2024-11-01,2024,Q4,Madhya Pradesh,Three-Wheeler,249
+2024-11-01,2024,Q4,Madhya Pradesh,Four-Wheeler,256
+2024-12-01,2024,Q4,Maharashtra,Two-Wheeler,2953
+2024-12-01,2024,Q4,Maharashtra,Three-Wheeler,765
+2024-12-01,2024,Q4,Maharashtra,Four-Wheeler,1017
+2024-12-01,2024,Q4,Uttar Pradesh,Two-Wheeler,2747
+2024-12-01,2024,Q4,Uttar Pradesh,Three-Wheeler,715
+2024-12-01,2024,Q4,Uttar Pradesh,Four-Wheeler,893
+2024-12-01,2024,Q4,Karnataka,Two-Wheeler,2438
+2024-12-01,2024,Q4,Karnataka,Three-Wheeler,675
+2024-12-01,2024,Q4,Karnataka,Four-Wheeler,413
+2024-12-01,2024,Q4,Tamil Nadu,Two-Wheeler,2110
+2024-12-01,2024,Q4,Tamil Nadu,Three-Wheeler,724
+2024-12-01,2024,Q4,Tamil Nadu,Four-Wheeler,314
+2024-12-01,2024,Q4,Gujarat,Two-Wheeler,1462
+2024-12-01,2024,Q4,Gujarat,Three-Wheeler,414
+2024-12-01,2024,Q4,Gujarat,Four-Wheeler,501
+2024-12-01,2024,Q4,Rajasthan,Two-Wheeler,1394
+2024-12-01,2024,Q4,Rajasthan,Three-Wheeler,448
+2024-12-01,2024,Q4,Rajasthan,Four-Wheeler,337
+2024-12-01,2024,Q4,Delhi,Two-Wheeler,1295
+2024-12-01,2024,Q4,Delhi,Three-Wheeler,399
+2024-12-01,2024,Q4,Delhi,Four-Wheeler,409
+2024-12-01,2024,Q4,Madhya Pradesh,Two-Wheeler,864
+2024-12-01,2024,Q4,Madhya Pradesh,Three-Wheeler,315
+2024-12-01,2024,Q4,Madhya Pradesh,Four-Wheeler,211
+2025-01-01,2025,Q1,Maharashtra,Two-Wheeler,3749
+2025-01-01,2025,Q1,Maharashtra,Three-Wheeler,873
+2025-01-01,2025,Q1,Maharashtra,Four-Wheeler,579
+2025-01-01,2025,Q1,Uttar Pradesh,Two-Wheeler,3627
+2025-01-01,2025,Q1,Uttar Pradesh,Three-Wheeler,1203
+2025-01-01,2025,Q1,Uttar Pradesh,Four-Wheeler,220
+2025-01-01,2025,Q1,Karnataka,Two-Wheeler,2481
+2025-01-01,2025,Q1,Karnataka,Three-Wheeler,745
+2025-01-01,2025,Q1,Karnataka,Four-Wheeler,301
+2025-01-01,2025,Q1,Tamil Nadu,Two-Wheeler,2013
+2025-01-01,2025,Q1,Tamil Nadu,Three-Wheeler,652
+2025-01-01,2025,Q1,Tamil Nadu,Four-Wheeler,551
+2025-01-01,2025,Q1,Gujarat,Two-Wheeler,1926
+2025-01-01,2025,Q1,Gujarat,Three-Wheeler,532
+2025-01-01,2025,Q1,Gujarat,Four-Wheeler,245
+2025-01-01,2025,Q1,Rajasthan,Two-Wheeler,1313
+2025-01-01,2025,Q1,Rajasthan,Three-Wheeler,346
+2025-01-01,2025,Q1,Rajasthan,Four-Wheeler,254
+2025-01-01,2025,Q1,Delhi,Two-Wheeler,1422
+2025-01-01,2025,Q1,Delhi,Three-Wheeler,412
+2025-01-01,2025,Q1,Delhi,Four-Wheeler,297
+2025-01-01,2025,Q1,Madhya Pradesh,Two-Wheeler,1069
+2025-01-01,2025,Q1,Madhya Pradesh,Three-Wheeler,309
+2025-01-01,2025,Q1,Madhya Pradesh,Four-Wheeler,257
+2025-02-01,2025,Q1,Maharashtra,Two-Wheeler,3484
+2025-02-01,2025,Q1,Maharashtra,Three-Wheeler,1142
+2025-02-01,2025,Q1,Maharashtra,Four-Wheeler,690
+2025-02-01,2025,Q1,Uttar Pradesh,Two-Wheeler,3571
+2025-02-01,2025,Q1,Uttar Pradesh,Three-Wheeler,1151
+2025-02-01,2025,Q1,Uttar Pradesh,Four-Wheeler,212
+2025-02-01,2025,Q1,Karnataka,Two-Wheeler,2830
+2025-02-01,2025,Q1,Karnataka,Three-Wheeler,883
+2025-02-01,2025,Q1,Karnataka,Four-Wheeler,645
+2025-02-01,2025,Q1,Tamil Nadu,Two-Wheeler,2701
+2025-02-01,2025,Q1,Tamil Nadu,Three-Wheeler,880
+2025-02-01,2025,Q1,Tamil Nadu,Four-Wheeler,344
+2025-02-01,2025,Q1,Gujarat,Two-Wheeler,1914
+2025-02-01,2025,Q1,Gujarat,Three-Wheeler,510
+2025-02-01,2025,Q1,Gujarat,Four-Wheeler,367
+2025-02-01,2025,Q1,Rajasthan,Two-Wheeler,1405
+2025-02-01,2025,Q1,Rajasthan,Three-Wheeler,477
+2025-02-01,2025,Q1,Rajasthan,Four-Wheeler,334
+2025-02-01,2025,Q1,Delhi,Two-Wheeler,1573
+2025-02-01,2025,Q1,Delhi,Three-Wheeler,385
+2025-02-01,2025,Q1,Delhi,Four-Wheeler,343
+2025-02-01,2025,Q1,Madhya Pradesh,Two-Wheeler,1086
+2025-02-01,2025,Q1,Madhya Pradesh,Three-Wheeler,411
+2025-02-01,2025,Q1,Madhya Pradesh,Four-Wheeler,255
+2025-03-01,2025,Q1,Maharashtra,Two-Wheeler,4123
+2025-03-01,2025,Q1,Maharashtra,Three-Wheeler,1274
+2025-03-01,2025,Q1,Maharashtra,Four-Wheeler,290
+2025-03-01,2025,Q1,Uttar Pradesh,Two-Wheeler,4129
+2025-03-01,2025,Q1,Uttar Pradesh,Three-Wheeler,1311
+2025-03-01,2025,Q1,Uttar Pradesh,Four-Wheeler,426
+2025-03-01,2025,Q1,Karnataka,Two-Wheeler,2427
+2025-03-01,2025,Q1,Karnataka,Three-Wheeler,785
+2025-03-01,2025,Q1,Karnataka,Four-Wheeler,579
+2025-03-01,2025,Q1,Tamil Nadu,Two-Wheeler,2393
+2025-03-01,2025,Q1,Tamil Nadu,Three-Wheeler,607
+2025-03-01,2025,Q1,Tamil Nadu,Four-Wheeler,500
+2025-03-01,2025,Q1,Gujarat,Two-Wheeler,2194
+2025-03-01,2025,Q1,Gujarat,Three-Wheeler,637
+2025-03-01,2025,Q1,Gujarat,Four-Wheeler,403
+2025-03-01,2025,Q1,Rajasthan,Two-Wheeler,1559
+2025-03-01,2025,Q1,Rajasthan,Three-Wheeler,497
+2025-03-01,2025,Q1,Rajasthan,Four-Wheeler,167
+2025-03-01,2025,Q1,Delhi,Two-Wheeler,1858
+2025-03-01,2025,Q1,Delhi,Three-Wheeler,639
+2025-03-01,2025,Q1,Delhi,Four-Wheeler,228
+2025-03-01,2025,Q1,Madhya Pradesh,Two-Wheeler,1060
+2025-03-01,2025,Q1,Madhya Pradesh,Three-Wheeler,283
+2025-03-01,2025,Q1,Madhya Pradesh,Four-Wheeler,357
+2025-04-01,2025,Q2,Maharashtra,Two-Wheeler,3973
+2025-04-01,2025,Q2,Maharashtra,Three-Wheeler,1335
+2025-04-01,2025,Q2,Maharashtra,Four-Wheeler,710
+2025-04-01,2025,Q2,Uttar Pradesh,Two-Wheeler,3742
+2025-04-01,2025,Q2,Uttar Pradesh,Three-Wheeler,1335
+2025-04-01,2025,Q2,Uttar Pradesh,Four-Wheeler,681
+2025-04-01,2025,Q2,Karnataka,Two-Wheeler,2736
+2025-04-01,2025,Q2,Karnataka,Three-Wheeler,805
+2025-04-01,2025,Q2,Karnataka,Four-Wheeler,718
+2025-04-01,2025,Q2,Tamil Nadu,Two-Wheeler,2347
+2025-04-01,2025,Q2,Tamil Nadu,Three-Wheeler,641
+2025-04-01,2025,Q2,Tamil Nadu,Four-Wheeler,744
+2025-04-01,2025,Q2,Gujarat,Two-Wheeler,2178
+2025-04-01,2025,Q2,Gujarat,Three-Wheeler,626
+2025-04-01,2025,Q2,Gujarat,Four-Wheeler,484
+2025-04-01,2025,Q2,Rajasthan,Two-Wheeler,1667
+2025-04-01,2025,Q2,Rajasthan,Three-Wheeler,579
+2025-04-01,2025,Q2,Rajasthan,Four-Wheeler,220
+2025-04-01,2025,Q2,Delhi,Two-Wheeler,1702
+2025-04-01,2025,Q2,Delhi,Three-Wheeler,484
+2025-04-01,2025,Q2,Delhi,Four-Wheeler,364
+2025-04-01,2025,Q2,Madhya Pradesh,Two-Wheeler,1275
+2025-04-01,2025,Q2,Madhya Pradesh,Three-Wheeler,432
+2025-04-01,2025,Q2,Madhya Pradesh,Four-Wheeler,125
+2025-05-01,2025,Q2,Maharashtra,Two-Wheeler,4347
+2025-05-01,2025,Q2,Maharashtra,Three-Wheeler,1288
+2025-05-01,2025,Q2,Maharashtra,Four-Wheeler,471
+2025-05-01,2025,Q2,Uttar Pradesh,Two-Wheeler,3193
+2025-05-01,2025,Q2,Uttar Pradesh,Three-Wheeler,1008
+2025-05-01,2025,Q2,Uttar Pradesh,Four-Wheeler,491
+2025-05-01,2025,Q2,Karnataka,Two-Wheeler,2810
+2025-05-01,2025,Q2,Karnataka,Three-Wheeler,956
+2025-05-01,2025,Q2,Karnataka,Four-Wheeler,464
+2025-05-01,2025,Q2,Tamil Nadu,Two-Wheeler,2292
+2025-05-01,2025,Q2,Tamil Nadu,Three-Wheeler,673
+2025-05-01,2025,Q2,Tamil Nadu,Four-Wheeler,482
+2025-05-01,2025,Q2,Gujarat,Two-Wheeler,2285
+2025-05-01,2025,Q2,Gujarat,Three-Wheeler,706
+2025-05-01,2025,Q2,Gujarat,Four-Wheeler,182
+2025-05-01,2025,Q2,Rajasthan,Two-Wheeler,1471
+2025-05-01,2025,Q2,Rajasthan,Three-Wheeler,464
+2025-05-01,2025,Q2,Rajasthan,Four-Wheeler,82
+2025-05-01,2025,Q2,Delhi,Two-Wheeler,1729
+2025-05-01,2025,Q2,Delhi,Three-Wheeler,410
+2025-05-01,2025,Q2,Delhi,Four-Wheeler,296
+2025-05-01,2025,Q2,Madhya Pradesh,Two-Wheeler,1052
+2025-05-01,2025,Q2,Madhya Pradesh,Three-Wheeler,392
+2025-05-01,2025,Q2,Madhya Pradesh,Four-Wheeler,251
+2025-06-01,2025,Q2,Maharashtra,Two-Wheeler,3816
+2025-06-01,2025,Q2,Maharashtra,Three-Wheeler,1024
+2025-06-01,2025,Q2,Maharashtra,Four-Wheeler,1133
+2025-06-01,2025,Q2,Uttar Pradesh,Two-Wheeler,3435
+2025-06-01,2025,Q2,Uttar Pradesh,Three-Wheeler,1262
+2025-06-01,2025,Q2,Uttar Pradesh,Four-Wheeler,724
+2025-06-01,2025,Q2,Karnataka,Two-Wheeler,2618
+2025-06-01,2025,Q2,Karnataka,Three-Wheeler,683
+2025-06-01,2025,Q2,Karnataka,Four-Wheeler,962
+2025-06-01,2025,Q2,Tamil Nadu,Two-Wheeler,2674
+2025-06-01,2025,Q2,Tamil Nadu,Three-Wheeler,877
+2025-06-01,2025,Q2,Tamil Nadu,Four-Wheeler,366
+2025-06-01,2025,Q2,Gujarat,Two-Wheeler,1924
+2025-06-01,2025,Q2,Gujarat,Three-Wheeler,444
+2025-06-01,2025,Q2,Gujarat,Four-Wheeler,335
+2025-06-01,2025,Q2,Rajasthan,Two-Wheeler,1665
+2025-06-01,2025,Q2,Rajasthan,Three-Wheeler,512
+2025-06-01,2025,Q2,Rajasthan,Four-Wheeler,132
+2025-06-01,2025,Q2,Delhi,Two-Wheeler,1887
+2025-06-01,2025,Q2,Delhi,Three-Wheeler,433
+2025-06-01,2025,Q2,Delhi,Four-Wheeler,336
+2025-06-01,2025,Q2,Madhya Pradesh,Two-Wheeler,972
+2025-06-01,2025,Q2,Madhya Pradesh,Three-Wheeler,311
+2025-06-01,2025,Q2,Madhya Pradesh,Four-Wheeler,273
+2025-07-01,2025,Q3,Maharashtra,Two-Wheeler,4173
+2025-07-01,2025,Q3,Maharashtra,Three-Wheeler,1388
+2025-07-01,2025,Q3,Maharashtra,Four-Wheeler,526
+2025-07-01,2025,Q3,Uttar Pradesh,Two-Wheeler,3454
+2025-07-01,2025,Q3,Uttar Pradesh,Three-Wheeler,868
+2025-07-01,2025,Q3,Uttar Pradesh,Four-Wheeler,626
+2025-07-01,2025,Q3,Karnataka,Two-Wheeler,2691
+2025-07-01,2025,Q3,Karnataka,Three-Wheeler,923
+2025-07-01,2025,Q3,Karnataka,Four-Wheeler,258
+2025-07-01,2025,Q3,Tamil Nadu,Two-Wheeler,1990
+2025-07-01,2025,Q3,Tamil Nadu,Three-Wheeler,675
+2025-07-01,2025,Q3,Tamil Nadu,Four-Wheeler,563
+2025-07-01,2025,Q3,Gujarat,Two-Wheeler,2154
+2025-07-01,2025,Q3,Gujarat,Three-Wheeler,652
+2025-07-01,2025,Q3,Gujarat,Four-Wheeler,203
+2025-07-01,2025,Q3,Rajasthan,Two-Wheeler,1400
+2025-07-01,2025,Q3,Rajasthan,Three-Wheeler,394
+2025-07-01,2025,Q3,Rajasthan,Four-Wheeler,462
+2025-07-01,2025,Q3,Delhi,Two-Wheeler,1465
+2025-07-01,2025,Q3,Delhi,Three-Wheeler,490
+2025-07-01,2025,Q3,Delhi,Four-Wheeler,249
+2025-07-01,2025,Q3,Madhya Pradesh,Two-Wheeler,1063
+2025-07-01,2025,Q3,Madhya Pradesh,Three-Wheeler,268
+2025-07-01,2025,Q3,Madhya Pradesh,Four-Wheeler,236
+2025-08-01,2025,Q3,Maharashtra,Two-Wheeler,3779
+2025-08-01,2025,Q3,Maharashtra,Three-Wheeler,1206
+2025-08-01,2025,Q3,Maharashtra,Four-Wheeler,864
+2025-08-01,2025,Q3,Uttar Pradesh,Two-Wheeler,3675
+2025-08-01,2025,Q3,Uttar Pradesh,Three-Wheeler,1256
+2025-08-01,2025,Q3,Uttar Pradesh,Four-Wheeler,412
+2025-08-01,2025,Q3,Karnataka,Two-Wheeler,2635
+2025-08-01,2025,Q3,Karnataka,Three-Wheeler,755
+2025-08-01,2025,Q3,Karnataka,Four-Wheeler,537
+2025-08-01,2025,Q3,Tamil Nadu,Two-Wheeler,2442
+2025-08-01,2025,Q3,Tamil Nadu,Three-Wheeler,667
+2025-08-01,2025,Q3,Tamil Nadu,Four-Wheeler,803
+2025-08-01,2025,Q3,Gujarat,Two-Wheeler,1833
+2025-08-01,2025,Q3,Gujarat,Three-Wheeler,550
+2025-08-01,2025,Q3,Gujarat,Four-Wheeler,453
+2025-08-01,2025,Q3,Rajasthan,Two-Wheeler,1432
+2025-08-01,2025,Q3,Rajasthan,Three-Wheeler,402
+2025-08-01,2025,Q3,Rajasthan,Four-Wheeler,253
+2025-08-01,2025,Q3,Delhi,Two-Wheeler,1374
+2025-08-01,2025,Q3,Delhi,Three-Wheeler,447
+2025-08-01,2025,Q3,Delhi,Four-Wheeler,339
+2025-08-01,2025,Q3,Madhya Pradesh,Two-Wheeler,866
+2025-08-01,2025,Q3,Madhya Pradesh,Three-Wheeler,272
+2025-08-01,2025,Q3,Madhya Pradesh,Four-Wheeler,272
+2025-09-01,2025,Q3,Maharashtra,Two-Wheeler,3774
+2025-09-01,2025,Q3,Maharashtra,Three-Wheeler,1219
+2025-09-01,2025,Q3,Maharashtra,Four-Wheeler,931
+2025-09-01,2025,Q3,Uttar Pradesh,Two-Wheeler,3444
+2025-09-01,2025,Q3,Uttar Pradesh,Three-Wheeler,1051
+2025-09-01,2025,Q3,Uttar Pradesh,Four-Wheeler,467
+2025-09-01,2025,Q3,Karnataka,Two-Wheeler,2445
+2025-09-01,2025,Q3,Karnataka,Three-Wheeler,841
+2025-09-01,2025,Q3,Karnataka,Four-Wheeler,489
+2025-09-01,2025,Q3,Tamil Nadu,Two-Wheeler,2384
+2025-09-01,2025,Q3,Tamil Nadu,Three-Wheeler,756
+2025-09-01,2025,Q3,Tamil Nadu,Four-Wheeler,463
+2025-09-01,2025,Q3,Gujarat,Two-Wheeler,2168
+2025-09-01,2025,Q3,Gujarat,Three-Wheeler,706
+2025-09-01,2025,Q3,Gujarat,Four-Wheeler,355
+2025-09-01,2025,Q3,Rajasthan,Two-Wheeler,1441
+2025-09-01,2025,Q3,Rajasthan,Three-Wheeler,400
+2025-09-01,2025,Q3,Rajasthan,Four-Wheeler,159
+2025-09-01,2025,Q3,Delhi,Two-Wheeler,1559
+2025-09-01,2025,Q3,Delhi,Three-Wheeler,409
+2025-09-01,2025,Q3,Delhi,Four-Wheeler,241
+2025-09-01,2025,Q3,Madhya Pradesh,Two-Wheeler,937
+2025-09-01,2025,Q3,Madhya Pradesh,Three-Wheeler,237
+2025-09-01,2025,Q3,Madhya Pradesh,Four-Wheeler,227
+2025-10-01,2025,Q4,Maharashtra,Two-Wheeler,3875
+2025-10-01,2025,Q4,Maharashtra,Three-Wheeler,896
+2025-10-01,2025,Q4,Maharashtra,Four-Wheeler,680
+2025-10-01,2025,Q4,Uttar Pradesh,Two-Wheeler,3080
+2025-10-01,2025,Q4,Uttar Pradesh,Three-Wheeler,823
+2025-10-01,2025,Q4,Uttar Pradesh,Four-Wheeler,836
+2025-10-01,2025,Q4,Karnataka,Two-Wheeler,2771
+2025-10-01,2025,Q4,Karnataka,Three-Wheeler,638
+2025-10-01,2025,Q4,Karnataka,Four-Wheeler,555
+2025-10-01,2025,Q4,Tamil Nadu,Two-Wheeler,2053
+2025-10-01,2025,Q4,Tamil Nadu,Three-Wheeler,546
+2025-10-01,2025,Q4,Tamil Nadu,Four-Wheeler,282
+2025-10-01,2025,Q4,Gujarat,Two-Wheeler,1977
+2025-10-01,2025,Q4,Gujarat,Three-Wheeler,491
+2025-10-01,2025,Q4,Gujarat,Four-Wheeler,431
+2025-10-01,2025,Q4,Rajasthan,Two-Wheeler,1139
+2025-10-01,2025,Q4,Rajasthan,Three-Wheeler,376
+2025-10-01,2025,Q4,Rajasthan,Four-Wheeler,57
+2025-10-01,2025,Q4,Delhi,Two-Wheeler,1488
+2025-10-01,2025,Q4,Delhi,Three-Wheeler,494
+2025-10-01,2025,Q4,Delhi,Four-Wheeler,318
+2025-10-01,2025,Q4,Madhya Pradesh,Two-Wheeler,869
+2025-10-01,2025,Q4,Madhya Pradesh,Three-Wheeler,279
+2025-10-01,2025,Q4,Madhya Pradesh,Four-Wheeler,177
+2025-11-01,2025,Q4,Maharashtra,Two-Wheeler,3380
+2025-11-01,2025,Q4,Maharashtra,Three-Wheeler,1075
+2025-11-01,2025,Q4,Maharashtra,Four-Wheeler,868
+2025-11-01,2025,Q4,Uttar Pradesh,Two-Wheeler,3278
+2025-11-01,2025,Q4,Uttar Pradesh,Three-Wheeler,1181
+2025-11-01,2025,Q4,Uttar Pradesh,Four-Wheeler,746
+2025-11-01,2025,Q4,Karnataka,Two-Wheeler,2883
+2025-11-01,2025,Q4,Karnataka,Three-Wheeler,967
+2025-11-01,2025,Q4,Karnataka,Four-Wheeler,411
+2025-11-01,2025,Q4,Tamil Nadu,Two-Wheeler,2359
+2025-11-01,2025,Q4,Tamil Nadu,Three-Wheeler,737
+2025-11-01,2025,Q4,Tamil Nadu,Four-Wheeler,668
+2025-11-01,2025,Q4,Gujarat,Two-Wheeler,1684
+2025-11-01,2025,Q4,Gujarat,Three-Wheeler,599
+2025-11-01,2025,Q4,Gujarat,Four-Wheeler,435
+2025-11-01,2025,Q4,Rajasthan,Two-Wheeler,1383
+2025-11-01,2025,Q4,Rajasthan,Three-Wheeler,357
+2025-11-01,2025,Q4,Rajasthan,Four-Wheeler,337
+2025-11-01,2025,Q4,Delhi,Two-Wheeler,1540
+2025-11-01,2025,Q4,Delhi,Three-Wheeler,350
+2025-11-01,2025,Q4,Delhi,Four-Wheeler,253
+2025-11-01,2025,Q4,Madhya Pradesh,Two-Wheeler,878
+2025-11-01,2025,Q4,Madhya Pradesh,Three-Wheeler,271
+2025-11-01,2025,Q4,Madhya Pradesh,Four-Wheeler,213
+2025-12-01,2025,Q4,Maharashtra,Two-Wheeler,4078
+2025-12-01,2025,Q4,Maharashtra,Three-Wheeler,1016
+2025-12-01,2025,Q4,Maharashtra,Four-Wheeler,1001
+2025-12-01,2025,Q4,Uttar Pradesh,Two-Wheeler,3285
+2025-12-01,2025,Q4,Uttar Pradesh,Three-Wheeler,974
+2025-12-01,2025,Q4,Uttar Pradesh,Four-Wheeler,361
+2025-12-01,2025,Q4,Karnataka,Two-Wheeler,2747
+2025-12-01,2025,Q4,Karnataka,Three-Wheeler,879
+2025-12-01,2025,Q4,Karnataka,Four-Wheeler,353
+2025-12-01,2025,Q4,Tamil Nadu,Two-Wheeler,2405
+2025-12-01,2025,Q4,Tamil Nadu,Three-Wheeler,747
+2025-12-01,2025,Q4,Tamil Nadu,Four-Wheeler,526
+2025-12-01,2025,Q4,Gujarat,Two-Wheeler,2199
+2025-12-01,2025,Q4,Gujarat,Three-Wheeler,614
+2025-12-01,2025,Q4,Gujarat,Four-Wheeler,279
+2025-12-01,2025,Q4,Rajasthan,Two-Wheeler,1561
+2025-12-01,2025,Q4,Rajasthan,Three-Wheeler,439
+2025-12-01,2025,Q4,Rajasthan,Four-Wheeler,193
+2025-12-01,2025,Q4,Delhi,Two-Wheeler,1609
+2025-12-01,2025,Q4,Delhi,Three-Wheeler,539
+2025-12-01,2025,Q4,Delhi,Four-Wheeler,217
+2025-12-01,2025,Q4,Madhya Pradesh,Two-Wheeler,985
+2025-12-01,2025,Q4,Madhya Pradesh,Three-Wheeler,297
+2025-12-01,2025,Q4,Madhya Pradesh,Four-Wheeler,189
